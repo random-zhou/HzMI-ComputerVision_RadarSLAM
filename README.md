@@ -1,5 +1,7 @@
 # HzMI-ComputerVision_RadarSLAM
-赫兹矩阵创新实验室视觉与雷达建模相关
+- 赫兹矩阵创新实验室视觉与雷达建模相关
+
+![alt text](<HzMI logo.jpg>)
 
 ## 视觉数据集分类处理算法系列
 YOLOv5自动标注使用说明书(点击下方)
